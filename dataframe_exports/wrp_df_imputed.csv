@@ -3288,17 +3288,17 @@
 3286,1997.0,265,German Democratic Republic,Christianity
 3287,1998.0,265,German Democratic Republic,Christianity
 3288,1999.0,265,German Democratic Republic,Christianity
-3289,2000.0,265,German Democratic Republic,Non-Religious
-3290,2001.0,265,German Democratic Republic,Non-Religious
-3291,2002.0,265,German Democratic Republic,Non-Religious
-3292,2003.0,265,German Democratic Republic,Non-Religious
-3293,2004.0,265,German Democratic Republic,Non-Religious
-3294,2005.0,265,German Democratic Republic,Non-Religious
-3295,2006.0,265,German Democratic Republic,Non-Religious
-3296,2007.0,265,German Democratic Republic,Non-Religious
-3297,2008.0,265,German Democratic Republic,Non-Religious
-3298,2009.0,265,German Democratic Republic,Non-Religious
-3299,2010.0,265,German Democratic Republic,Non-Religious
+3289,2000.0,265,German Democratic Republic,Christianity
+3290,2001.0,265,German Democratic Republic,Christianity
+3291,2002.0,265,German Democratic Republic,Christianity
+3292,2003.0,265,German Democratic Republic,Christianity
+3293,2004.0,265,German Democratic Republic,Christianity
+3294,2005.0,265,German Democratic Republic,Christianity
+3295,2006.0,265,German Democratic Republic,Christianity
+3296,2007.0,265,German Democratic Republic,Christianity
+3297,2008.0,265,German Democratic Republic,Christianity
+3298,2009.0,265,German Democratic Republic,Christianity
+3299,2010.0,265,German Democratic Republic,Christianity
 3300,1945.0,290,POL,Christianity
 3301,1946.0,290,Poland,Christianity
 3302,1947.0,290,Poland,Christianity
@@ -6863,17 +6863,17 @@
 6861,2008.0,471,Cameroon,Christianity
 6862,2009.0,471,Cameroon,Christianity
 6863,2010.0,471,CAO,Christianity
-6864,1945.0,475,Nigeria,Islam
-6865,1946.0,475,Nigeria,Islam
-6866,1947.0,475,Nigeria,Islam
-6867,1948.0,475,Nigeria,Islam
-6868,1949.0,475,Nigeria,Islam
-6869,1950.0,475,Nigeria,Islam
-6870,1951.0,475,Nigeria,Islam
-6871,1952.0,475,Nigeria,Islam
-6872,1953.0,475,Nigeria,Islam
-6873,1954.0,475,Nigeria,Islam
-6874,1955.0,475,Nigeria,Islam
+6864,1945.0,475,Nigeria,Christianity
+6865,1946.0,475,Nigeria,Christianity
+6866,1947.0,475,Nigeria,Christianity
+6867,1948.0,475,Nigeria,Christianity
+6868,1949.0,475,Nigeria,Christianity
+6869,1950.0,475,Nigeria,Christianity
+6870,1951.0,475,Nigeria,Christianity
+6871,1952.0,475,Nigeria,Christianity
+6872,1953.0,475,Nigeria,Christianity
+6873,1954.0,475,Nigeria,Christianity
+6874,1955.0,475,Nigeria,Christianity
 6875,1956.0,475,Nigeria,Christianity
 6876,1957.0,475,Nigeria,Christianity
 6877,1958.0,475,Nigeria,Christianity
@@ -10889,7 +10889,7 @@
 10887,2008.0,731,North Korea,Non-Religious
 10888,2009.0,731,North Korea,Non-Religious
 10889,2010.0,731,PRK,Non-Religious
-10890,1945.0,732,South Korea,Non-Religious
+10890,1945.0,732,South Korea,Buddhism
 10891,1946.0,732,South Korea,Buddhism
 10892,1947.0,732,South Korea,Buddhism
 10893,1948.0,732,South Korea,Buddhism
